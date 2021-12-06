@@ -1,0 +1,4 @@
+config:
+  info: "config info for default"
+foo: bar
+bar: foo
