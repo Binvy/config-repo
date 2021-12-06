@@ -1,4 +1,4 @@
 config:
-  info: "config info for dev version2"
+  info: "config info for dev version3"
 foo: bar
 bar: foo
